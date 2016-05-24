@@ -1,13 +1,13 @@
 ---
 description: Why choose me as your Life Coach?
-dateModified: '2016-05-24T05:31:40.833Z'
-datePublished: '2016-05-24T05:31:41.074Z'
+dateModified: '2016-05-24T05:31:43.028Z'
+datePublished: '2016-05-24T05:31:43.251Z'
 title: How is life coaching different from therapy?
 author:
   - name: '@PennyStetz'
     url: twitter.com/pennystetz
 sourcePath: _posts/2016-05-24-how-is-life-coaching-different-from-therapy.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
