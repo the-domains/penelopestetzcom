@@ -1,14 +1,7 @@
 ---
-author:
-  - name: the42net1
-    url: 'https://www.youtube.com/user/the42net1'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+datePublished: '2016-05-25T22:22:30.595Z'
+sourcePath: _posts/2016-05-24-become-open-to-change.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=t0u6rY-0ivc&list=FL1dq47iP_iuCRSwYfUzYzjg&index=11'
 keywords:
   - duration
   - views
@@ -20,8 +13,13 @@ keywords:
   - small
   - christian
   - countryside
-description: 'If you want to see changes in your life, begin by making small changes in your thinking. If you become aware of what you are doing and make small physical changes, you will open your mind to be receptive to new thoughts.'
-inLanguage: en
+related: []
+author:
+  - name: the42net1
+    url: 'https://www.youtube.com/user/the42net1'
+    avatar: {}
+dateModified: '2016-05-25T22:21:27.898Z'
+title: Become Open to Change
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=t0u6rY-0ivc&list=FL1dq47iP_iuCRSwYfUzYzjg&index=11&feature=applinks'
     type: ios
@@ -59,17 +57,21 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=t0u6rY-0ivc&list=FL1dq47iP_iuCRSwYfUzYzjg&index=11'
-title: Become Open to Change
-datePublished: '2016-05-24T05:41:31.157Z'
-dateModified: '2016-05-24T05:39:51.318Z'
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
+description: 'https://www.youtube.com/watch?v=t0u6rY-0ivc'
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-05-24-become-open-to-change.md
 inFeed: true
 hasPage: false
 inNav: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fvideoseries%3Flist%3DFL1dq47iP_iuCRSwYfUzYzjg&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt0u6rY-0ivc&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ft0u6rY-0ivc%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+![If you want to see changes in your life, begin by making small changes in your thinking. If you become aware of what you are doing and make small physical changes, you will open your mind to be receptive to new thoughts.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05a1dac1-41b0-4a44-87f3-408f7f13ec59.jpg)
+
+https://www.youtube.com/watch?v=t0u6rY-0ivc
