@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T04:12:07.251Z'
+datePublished: '2016-08-20T15:22:14.352Z'
 sourcePath: _posts/2016-05-24-become-open-to-change.md
 hasPage: true
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.youtube.com/user/the42net1'
     avatar: {}
 via: {}
-dateModified: '2016-08-03T04:12:06.873Z'
+dateModified: '2016-08-20T15:22:13.964Z'
 title: Become Open to Change
 app_links:
   - url: >-
